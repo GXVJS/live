@@ -1,3 +1,51 @@
 <resources>
     <string name="app_name">live</string>
+    <string name="action_time">Расписание дня</string>
+    <string name="action_steck">Список технологий</string>
+    <string name="action_soft">Список ПО</string>
+    <string name="action_devops">Разрботчики</string>
+    <string-array name="dewops_names">
+        <item>Амелин</item>
+        <item>Игнатушин</item>
+        <item>Самсонов</item>
+        <item>Галицков</item>
+        <item>Кутепов</item>
+        <item>Махов</item>
+        <item>Мистюк</item>
+        <item>Рузаева</item>
+        <item>Лобынцев</item>
+        <item>Накпаева</item>
+    </string-array>
+    <string-array name="tools_name">
+        <item>Android studio</item>
+        <item>JB Rider</item>
+        <item>VS Code</item>
+        <item>Visual Studio</item>
+        <item>JB PyCharm</item>
+        <item>1C</item>
+        <item>Arduino</item>
+        <item>JB PHPStorm</item>
+        <item>JB WebStorm</item>
+        <item>JB DataGrip</item>
+    </string-array>
+    <string-array name="steck_technolog">
+        <item>Python</item>
+        <item>C#</item>
+        <item>C++</item>
+        <item>PHP</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>JavaScript</item>
+        <item>1C</item>
+        <item>SQL -> MySQL -> PostgreSQL -> GraphQL</item>
+    </string-array>
+    <string-array name="work_time">
+        <item>9:00 -> начало дня</item>
+        <item>11:00 -> собрание</item>
+        <item>12:00 -> митинг</item>
+        <item>13:00 - 14:00 -> обед</item>
+        <item>15:00 - 18:00 -> работа</item>
+        <item>18:00 -> домой</item>
+    </string-array>
 </resources>
